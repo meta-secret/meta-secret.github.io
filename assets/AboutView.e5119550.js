@@ -1,0 +1,1 @@
+import{e as n,_ as a,o as r,c as d,a as o}from"./index.8682cffe.js";const i=n({methods:{testMethod(){alert("ts works!")}}}),p=o("h1",null,"This is an about page",-1);function c(t,e,l,u,f,_){return r(),d("div",null,[p,o("button",{type:"button",onClick:e[0]||(e[0]=(...s)=>t.testMethod&&t.testMethod(...s))}," Options ")])}const m=a(i,[["render",c]]);export{m as default};
