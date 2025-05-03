@@ -1,4 +1,0 @@
-Sitemap: https://meta-secret.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
